@@ -1,4 +1,4 @@
-## Novidades
+## Novidades 💡
 
 ### Desenvolvimento guiado por especificações
 
