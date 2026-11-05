@@ -7,7 +7,8 @@ Este projeto foi desenvolvido com **SDD (Specification-Driven Development)**. Ag
 
 **Repositório:** [chatweb_rag](https://github.com/marlonkleinschmidt/chatweb_rag)
 
-![Captura de tela do ChatWeb RAG](https://github.com/user-attachments/assets/2f722ff3-7483-41bf-8a1f-fb2a500fd10e)
+<img width="2549" height="1227" alt="{37044246-9CCE-4040-AD97-A603CD40BCCD}" src="https://github.com/user-attachments/assets/b38be36e-1f6b-42d9-8de7-bf49af0d867c" />
+
 
 
 <!--
