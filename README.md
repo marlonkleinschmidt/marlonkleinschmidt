@@ -1,6 +1,9 @@
 ## News 👋
 
-Projeto desenvolvido
+## Metodologia de desenvolvimento
+
+Este projeto foi desenvolvido com SDD (Specification-Driven Development), com implementação realizada por agentes autônomos de IA, assistidos e guiados pelas especificações. As especificações orientaram o planejamento, a implementação e a validação das funcionalidades, mantendo o código alinhado aos requisitos definidos e ao comportamento esperado do sistema.
+
 https://github.com/marlonkleinschmidt/chatweb_rag
 <img width="2543" height="1225" alt="{07274167-D132-409F-8EB9-FC28672E9E7C}" src="https://github.com/user-attachments/assets/2f722ff3-7483-41bf-8a1f-fb2a500fd10e" />
 
