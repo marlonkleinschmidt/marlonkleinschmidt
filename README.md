@@ -1,11 +1,12 @@
-## News 👋
+## Novidades
 
-## Metodologia de desenvolvimento
+### Desenvolvimento guiado por especificações
 
-Este projeto foi desenvolvido com SDD (Specification-Driven Development), com implementação realizada por agentes autônomos de IA, assistidos e guiados pelas especificações. As especificações orientaram o planejamento, a implementação e a validação das funcionalidades, mantendo o código alinhado aos requisitos definidos e ao comportamento esperado do sistema.
+Este projeto foi desenvolvido com **SDD (Specification-Driven Development)**. Agentes autônomos de IA, assistidos e orientados pelas especificações, participaram da implementação das funcionalidades. As especificações guiaram o planejamento, o desenvolvimento e a validação, mantendo o código alinhado aos requisitos e ao comportamento esperado do sistema.
 
-https://github.com/marlonkleinschmidt/chatweb_rag
-<img width="2543" height="1225" alt="{07274167-D132-409F-8EB9-FC28672E9E7C}" src="https://github.com/user-attachments/assets/2f722ff3-7483-41bf-8a1f-fb2a500fd10e" />
+**Repositório:** [chatweb_rag](https://github.com/marlonkleinschmidt/chatweb_rag)
+
+![Captura de tela do ChatWeb RAG](https://github.com/user-attachments/assets/2f722ff3-7483-41bf-8a1f-fb2a500fd10e)
 
 
 <!--
