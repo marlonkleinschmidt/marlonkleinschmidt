@@ -1,5 +1,6 @@
 ## Novidades 💡
 
+## Assistente RAG para documentos 
 ### Desenvolvimento guiado por especificações
 
 Este projeto foi desenvolvido com **SDD (Specification-Driven Development)**. Agentes autônomos de IA, assistidos e orientados pelas especificações, participaram da implementação das funcionalidades. As especificações guiaram o planejamento, o desenvolvimento e a validação, mantendo o código alinhado aos requisitos e ao comportamento esperado do sistema.
