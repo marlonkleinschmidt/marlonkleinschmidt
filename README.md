@@ -1,4 +1,4 @@
-## Novidades 💡
+## ⚙️ 💡
 
 ### Projeto: Assistente RAG para documentos 
 ### Desenvolvimento guiado por especificações
